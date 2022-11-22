@@ -14,11 +14,3 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="90" height="90"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="90" height="90"/> </a>
   </p>
-  
-  <details>
-  <summary><b>📈&nbsp;&nbsp;Language stats</b></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/b-tanvir'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=b-tanvir&padding=30&width=640&width=320'
-  </a>
-  </details>
